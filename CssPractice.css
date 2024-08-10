@@ -1,0 +1,20 @@
+.ex{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+#new{
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium';
+    background-color: black;
+    font-style: italic;
+}
+body{
+    background-color: burlywood;
+}
+div{
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid green;
+}
